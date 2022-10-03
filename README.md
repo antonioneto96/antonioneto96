@@ -16,3 +16,5 @@ Iniciante no desenvolvimento de projetos, aprendendo aos poucos e sempre em busc
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioneto96&repo=antonioneto96.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antonioneto96&repo=DJDV.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
